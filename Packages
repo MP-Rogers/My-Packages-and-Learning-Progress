@@ -1,0 +1,25 @@
+This is a List of R packages i've installed outside of what comes with standard installation.
+If i need to switch devices, i should install these:
+
+openxlsx
+ecotox
+tidyverse(ggplot, diplyr, tidyr)
+varhandle
+ggpubr
+Xlxs
+Rmarkdown + latex
+knitr
+ggthemes
+gganimate + gifski
+gapminder
+mosaic + mosaiccalc 
+ggally
+reshape + reshape2
+plot.ly
+rvest
+
+
+and from githun but not cran:
+install.packages("remotes")
+remotes::install_github("robbriers/kites")
+
