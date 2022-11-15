@@ -17,6 +17,9 @@ ggally
 reshape + reshape2
 plot.ly
 rvest
+Xnomial
+pwr
+BSDA
 
 
 and from githun but not cran:
